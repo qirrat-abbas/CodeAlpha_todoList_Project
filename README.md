@@ -1,2 +1,2 @@
-# CodeAlpha_todoList_Project
+#todoList_Project
 This To-Do List app is a fully responsive and interactive task management tool built using HTML, CSS, and JavaScript. The design is powered by CSS Grid and media queries to ensure a seamless user experience across all devices, from desktops to smartphones. The app leverages DOM manipulation to provide real-time interactivity, allowing users to add, remove, and organize tasks effortlessl
